@@ -1,0 +1,32 @@
+#upper_right {
+position: absolute;
+top: 0px;
+right: 0px;
+width: 300px;
+height: 300px;
+}
+
+#upper_left {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 300px;
+    height: 300px;
+}
+
+#lower_left {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 300px;
+    height: 300px;
+}
+
+#lower_right {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 300px;
+    height: 300px;
+}
+ 
